@@ -2,7 +2,7 @@
 Excel sheets accompanying the publication "Controlling mechanical properties via architecture of poly(methacrylic acid) hydrogels"
 Excel sheets implementing LbL Hydrogel fitting
 
-The Excel sheets in this archive accompany the manuscript "Controlling mechanical properties via architecture of poly(methacrylic acid) hydrogels",Maksim Dolmat, John F. Ankner, and Eugenia Kharlampieva, which is currently in preparation (as of August 2022).
+The Excel sheets in this archive accompany the manuscript "Controlling mechanical properties via architecture of poly(methacrylic acid) hydrogels", Maksim Dolmat, Veronika Kozlovskaya, John F. Ankner, and Eugenia Kharlampieva, which is currently in preparation (as of September 2022).
 
 There are two sets of Excel sheets representing two samples: poly(methacrylic acid) (PMAA) crosslinked hydrogels deposited on silicon (Si) substrates using the hydrogen-bonded (HB) Layer-by-Layer (LbL) technique with poly(N-vinylpyrrolidone) (PVPON) serving as the binder, pre-crosslinking using: 1) 40 kDa PVPON and 2) 280 kDa 
 
